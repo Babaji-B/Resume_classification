@@ -18,4 +18,5 @@ This project focuses on classifying resumes into specific job designations using
 - **scikit-learn (Logistic Regression, Naive Bayes)**
 - **PyPDF (Text extraction from PDFs)**
 - **python-docx (Text extraction from DOCX files)**
+- **Shutil (To Move or Copy Files)**
 - **Predefined Skill Set for Classification**
